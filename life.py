@@ -4,7 +4,7 @@ Conway's game of life is a classic cellular automation created in 1970 by John
 Conway. https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 Exercises
-
+Probando probando
 1. Can you identify any Still Lifes, Oscillators, or Spaceships?
 2. How can you make the simulation faster? Or bigger?
 3. How would you modify the initial state?
